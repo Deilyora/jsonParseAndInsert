@@ -28,7 +28,7 @@ foreach ($json_a as $key => $val) {
                     break;
 
                     default:
-                        $typeProfession="4"
+                        $typeProfession="4";
                     break;
                 }
 
